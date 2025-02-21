@@ -1,7 +1,8 @@
 ## Michael Trindade
 
 - 💻 Graduado em Sistemas de Informação;
-- 📚 Atualmente me dedico a Java, React e SQL, mas também gosto de me aventurar em Node.js nas horas vagas;
+- 💻 Pós-Graduando em Engenharia de Software;
+- 📚 Atualmente me dedico a Java, Python, React e SQL, mas também gosto de me aventurar em Node.js nas horas vagas;
 
 <div>
   <a href=" https://github.com/mtstechnologies"/>
