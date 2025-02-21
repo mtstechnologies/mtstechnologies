@@ -12,6 +12,7 @@
 ## Technologias ​​
 <div  style="display : inline_block">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="30" height="40" align="center" alt="Icon da linguagem Java representado por uma xicara de cafe"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="30" height="40" align="center" alt="Icon da linguagem Python"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="40" height="40" align="center" alt="Icon do spring boot"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40" align="center" alt="Icon da linguagem JavaScript"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40" align="center" alt="Icon da linguagem TypeScript"/>
